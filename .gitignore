@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# TensorFlow Model Cache
+*.h5
+
+# Temporary Files
+*.tmp
+
+# Build Files
+build/
+
+# Kafka Logs
+kafka-logs/
+zookeeper/
+
+# Environment Files
+.env
